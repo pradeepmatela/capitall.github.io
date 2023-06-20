@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    /* Styling for the box */
+    .box {
+      width: 100%;
+      height: 600px;
+      background-color: lightgray;
+      border: 1px solid gray;
+      display: none; /* Initially hidden */
+    }
+  </style>
+  <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+</head>
+<body>
+  <a href="#" id="openBoxLink">Open Box</a>
+  
+  <div id="myBox" class="box">
+    This is a box.
+    <a href="#" id="closeBoxLink">Close</a>
+  </div>
+  
+  <script>
+    $(document).ready(function() {
+      // Open the box when the link is clicked
+      $("#openBoxLink").click(function() {
+        $("#myBox").slideDown();
+      });
+
+      // Close the box when the link is clicked
+      $("#closeBoxLink").click(function() {
+        $("#myBox").slideUp();
+      });
+    });
+  </script>
+</body>
+</html>

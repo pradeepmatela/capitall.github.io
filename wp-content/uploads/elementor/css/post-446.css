@@ -1,0 +1,13 @@
+.elementor-446 .elementor-element.elementor-element-7fceaa29 > .elementor-container > .elementor-column > .elementor-widget-wrap{align-content:center;align-items:center;}.elementor-446 .elementor-element.elementor-element-7fceaa29 > .elementor-background-overlay{background-color:var( --e-global-color-text );opacity:1;}.elementor-446 .elementor-element.elementor-element-7fceaa29{padding:150px 30px 25px 30px;}.elementor-446 .elementor-element.elementor-element-6781a3b6 > .elementor-element-populated{padding:0% 30% 0% 0%;}.elementor-446 .elementor-element.elementor-element-5de7e7a9 .elementor-heading-title{color:var( --e-global-color-1e6585e );}.elementor-446 .elementor-element.elementor-element-75c8db8b{color:var( --e-global-color-1e6585e );font-family:"Montserrat";font-size:16px;font-weight:500;line-height:21px;}.elementor-446 .elementor-element.elementor-element-75c8db8b > .elementor-widget-container{margin:0px 0px 20px 0px;}.elementor-446 .elementor-element.elementor-element-62b01f49 .elementor-heading-title{color:var( --e-global-color-1e6585e );font-family:"Montserrat";font-size:15px;font-weight:500;text-transform:uppercase;letter-spacing:1.5px;}.elementor-446 .elementor-element.elementor-element-3a9b32e5.elementor-column > .elementor-widget-wrap{justify-content:flex-end;}.elementor-446 .elementor-element.elementor-element-6b6ce711{text-align:right;width:var( --container-widget-width, 600px );max-width:600px;--container-widget-width:600px;--container-widget-flex-grow:0;}@media(max-width:767px){.elementor-446 .elementor-element.elementor-element-7fceaa29{padding:200px 30px 25px 30px;}.elementor-446 .elementor-element.elementor-element-6781a3b6 > .elementor-element-populated{padding:0% 0% 0% 0%;}}/* Start custom CSS for section, class: .elementor-element-5af89b66 */.elementor-446 .elementor-element.elementor-element-5af89b66 .resources-section-wrapper {
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+.elementor-446 .elementor-element.elementor-element-5af89b66 .us-ajax-overlay.us-ajax-overlay-full {
+    height:0;
+    transition: opacity .5s ease-out,transform 0s .5s ease-out, height 0s .5s ease-out;
+}
+.elementor-446 .elementor-element.elementor-element-5af89b66 .us-ajax-overlay.us-ajax-overlay-full.active {
+    height:100%;
+    transition: opacity .5s ease-out,transform 0s 0s ease-out, height 0s 0s ease-out;
+}/* End custom CSS */

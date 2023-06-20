@@ -1,0 +1,151 @@
+﻿/*
+ * The Typekit service used to deliver this font or fonts for use on websites
+ * is provided by Adobe and is subject to these Terms of Use
+ * http://www.adobe.com/products/eulas/tou_typekit. For font license
+ * information, see the list below.
+ *
+ * brandon-grotesque:
+ *   - http://typekit.com/eulas/0000000000000000000132df
+ * utopia-std:
+ *   - http://typekit.com/eulas/0000000000000000000131a3
+ *   - http://typekit.com/eulas/0000000000000000000131a2
+ *   - http://typekit.com/eulas/0000000000000000000131a0
+ *   - http://typekit.com/eulas/0000000000000000000131a1
+ * utopia-std-caption:
+ *   - http://typekit.com/eulas/00000000000000000001304a
+ *   - http://typekit.com/eulas/00000000000000000001304b
+ *   - http://typekit.com/eulas/00000000000000000001304c
+ *   - http://typekit.com/eulas/00000000000000000001304d
+ * utopia-std-display:
+ *   - http://typekit.com/eulas/00000000000000000001309e
+ *   - http://typekit.com/eulas/00000000000000000001309f
+ *   - http://typekit.com/eulas/0000000000000000000130a0
+ *   - http://typekit.com/eulas/0000000000000000000130a1
+ * utopia-std-headline:
+ *   - http://typekit.com/eulas/000000000000000000013049
+ * utopia-std-subhead:
+ *   - http://typekit.com/eulas/00000000000000000001305d
+ *   - http://typekit.com/eulas/00000000000000000001305e
+ *   - http://typekit.com/eulas/00000000000000000001305f
+ *   - http://typekit.com/eulas/000000000000000000013060
+ *
+ * © 2009-2023 Adobe Systems Incorporated. All Rights Reserved.
+ */
+/*{"last_published":"2022-01-20 16:30:26 UTC"}*/
+
+@import url("p.css");
+
+@font-face {
+font-family:"brandon-grotesque";
+src:url("af/1da05b/0000000000000000000132df/27/l") format("woff2"),url("af/1da05b/0000000000000000000132df/27/d") format("woff"),url("af/1da05b/0000000000000000000132df/27/a") format("opentype");
+font-display:auto;font-style:normal;font-weight:400;font-stretch:normal;
+}
+
+@font-face {
+font-family:"utopia-std";
+src:url("af/9ff5df/0000000000000000000131a3/27/l") format("woff2"),url("af/9ff5df/0000000000000000000131a3/27/d") format("woff"),url("af/9ff5df/0000000000000000000131a3/27/a") format("opentype");
+font-display:auto;font-style:normal;font-weight:400;font-stretch:normal;
+}
+
+@font-face {
+font-family:"utopia-std";
+src:url("af/aeaf25/0000000000000000000131a2/27/l") format("woff2"),url("af/aeaf25/0000000000000000000131a2/27/d") format("woff"),url("af/aeaf25/0000000000000000000131a2/27/a") format("opentype");
+font-display:auto;font-style:italic;font-weight:400;font-stretch:normal;
+}
+
+@font-face {
+font-family:"utopia-std";
+src:url("af/6ebf8d/0000000000000000000131a0/27/l") format("woff2"),url("af/6ebf8d/0000000000000000000131a0/27/d") format("woff"),url("af/6ebf8d/0000000000000000000131a0/27/a") format("opentype");
+font-display:auto;font-style:normal;font-weight:700;font-stretch:normal;
+}
+
+@font-face {
+font-family:"utopia-std";
+src:url("af/4bab48/0000000000000000000131a1/27/l") format("woff2"),url("af/4bab48/0000000000000000000131a1/27/d") format("woff"),url("af/4bab48/0000000000000000000131a1/27/a") format("opentype");
+font-display:auto;font-style:italic;font-weight:700;font-stretch:normal;
+}
+
+@font-face {
+font-family:"utopia-std-caption";
+src:url("af/a59f0f/00000000000000000001304a/27/l") format("woff2"),url("af/a59f0f/00000000000000000001304a/27/d") format("woff"),url("af/a59f0f/00000000000000000001304a/27/a") format("opentype");
+font-display:auto;font-style:normal;font-weight:700;font-stretch:normal;
+}
+
+@font-face {
+font-family:"utopia-std-caption";
+src:url("af/911694/00000000000000000001304b/27/l") format("woff2"),url("af/911694/00000000000000000001304b/27/d") format("woff"),url("af/911694/00000000000000000001304b/27/a") format("opentype");
+font-display:auto;font-style:italic;font-weight:700;font-stretch:normal;
+}
+
+@font-face {
+font-family:"utopia-std-caption";
+src:url("af/3c6cb8/00000000000000000001304c/27/l") format("woff2"),url("af/3c6cb8/00000000000000000001304c/27/d") format("woff"),url("af/3c6cb8/00000000000000000001304c/27/a") format("opentype");
+font-display:auto;font-style:italic;font-weight:400;font-stretch:normal;
+}
+
+@font-face {
+font-family:"utopia-std-caption";
+src:url("af/e05473/00000000000000000001304d/27/l") format("woff2"),url("af/e05473/00000000000000000001304d/27/d") format("woff"),url("af/e05473/00000000000000000001304d/27/a") format("opentype");
+font-display:auto;font-style:normal;font-weight:400;font-stretch:normal;
+}
+
+@font-face {
+font-family:"utopia-std-display";
+src:url("af/2b93d5/00000000000000000001309e/27/l") format("woff2"),url("af/2b93d5/00000000000000000001309e/27/d") format("woff"),url("af/2b93d5/00000000000000000001309e/27/a") format("opentype");
+font-display:auto;font-style:normal;font-weight:700;font-stretch:normal;
+}
+
+@font-face {
+font-family:"utopia-std-display";
+src:url("af/836d26/00000000000000000001309f/27/l") format("woff2"),url("af/836d26/00000000000000000001309f/27/d") format("woff"),url("af/836d26/00000000000000000001309f/27/a") format("opentype");
+font-display:auto;font-style:italic;font-weight:700;font-stretch:normal;
+}
+
+@font-face {
+font-family:"utopia-std-display";
+src:url("af/7504be/0000000000000000000130a0/27/l") format("woff2"),url("af/7504be/0000000000000000000130a0/27/d") format("woff"),url("af/7504be/0000000000000000000130a0/27/a") format("opentype");
+font-display:auto;font-style:italic;font-weight:400;font-stretch:normal;
+}
+
+@font-face {
+font-family:"utopia-std-display";
+src:url("af/79e94f/0000000000000000000130a1/27/l") format("woff2"),url("af/79e94f/0000000000000000000130a1/27/d") format("woff"),url("af/79e94f/0000000000000000000130a1/27/a") format("opentype");
+font-display:auto;font-style:normal;font-weight:400;font-stretch:normal;
+}
+
+@font-face {
+font-family:"utopia-std-headline";
+src:url("af/a55e3d/000000000000000000013049/27/l") format("woff2"),url("af/a55e3d/000000000000000000013049/27/d") format("woff"),url("af/a55e3d/000000000000000000013049/27/a") format("opentype");
+font-display:auto;font-style:normal;font-weight:400;font-stretch:normal;
+}
+
+@font-face {
+font-family:"utopia-std-subhead";
+src:url("af/40cba0/00000000000000000001305d/27/l") format("woff2"),url("af/40cba0/00000000000000000001305d/27/d") format("woff"),url("af/40cba0/00000000000000000001305d/27/a") format("opentype");
+font-display:auto;font-style:normal;font-weight:700;font-stretch:normal;
+}
+
+@font-face {
+font-family:"utopia-std-subhead";
+src:url("af/49ecdf/00000000000000000001305e/27/l") format("woff2"),url("af/49ecdf/00000000000000000001305e/27/d") format("woff"),url("af/49ecdf/00000000000000000001305e/27/a") format("opentype");
+font-display:auto;font-style:italic;font-weight:700;font-stretch:normal;
+}
+
+@font-face {
+font-family:"utopia-std-subhead";
+src:url("af/188c98/00000000000000000001305f/27/l") format("woff2"),url("af/188c98/00000000000000000001305f/27/d") format("woff"),url("af/188c98/00000000000000000001305f/27/a") format("opentype");
+font-display:auto;font-style:italic;font-weight:400;font-stretch:normal;
+}
+
+@font-face {
+font-family:"utopia-std-subhead";
+src:url("af/d8739d/000000000000000000013060/27/l") format("woff2"),url("af/d8739d/000000000000000000013060/27/d") format("woff"),url("af/d8739d/000000000000000000013060/27/a") format("opentype");
+font-display:auto;font-style:normal;font-weight:400;font-stretch:normal;
+}
+
+.tk-brandon-grotesque { font-family: "brandon-grotesque",sans-serif; }
+.tk-utopia-std { font-family: "utopia-std",serif; }
+.tk-utopia-std-caption { font-family: "utopia-std-caption",serif; }
+.tk-utopia-std-display { font-family: "utopia-std-display",serif; }
+.tk-utopia-std-headline { font-family: "utopia-std-headline",serif; }
+.tk-utopia-std-subhead { font-family: "utopia-std-subhead",serif; }
